@@ -3,10 +3,10 @@
 - 🔭 I'm a full-stack developer who just graduated from Henry's incredibly intensive boot camp.
 
 
-## Últimos proyectos realizados
+## Projects
 
-- Proyecto Individual [Videogames] (https://videogames-psi.vercel.app/)
-- Proyecto Grupal [e-commerce] (https://sneakers-xxre.vercel.app/)
+- Solo project [Videogames] (https://videogames-psi.vercel.app/)
+- Group project [e-commerce] (https://sneakers-xxre.vercel.app/)
 - ....
 
 ## 🛠 Skills
