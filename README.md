@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Jose Luis
+
+- 🔭 I'm a full-stack developer who just graduated from Henry's incredibly intensive boot camp.
 
 <!--
 **joseluiscrr/joseluiscrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
